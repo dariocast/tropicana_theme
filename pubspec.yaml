@@ -1,6 +1,13 @@
 name: tropicana_theme
 description: A vibrant, tropical-inspired Flutter theme package with custom colors and typography.
 version: 0.1.0
+repository: https://github.com/dariocast/tropicana_theme
+issue_tracker: https://github.com/dariocast/tropicana_theme/issues
+topics:
+  - theme
+  - ui
+  - material
+  - design
 
 environment:
   sdk: ^3.9.0
